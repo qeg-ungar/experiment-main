@@ -39,3 +39,8 @@ python -m venv .venv   # create venv
 python --version  # should show Python 3.10.x
 pip install -r requirements.txt # installs local qudi-iqo-modules as a package, qudi-core, and qua-libs requirements
 ```
+## Set up qudi config path
+running the command "qudi" will load the default config from 'C:\Users\USER\qudi\default.cfg'
+to load a new config from 'experiment-main\qudi_configs\ run:
+qudi -c '.\qudi_configs\default.cfg'
+
