@@ -1,2 +1,40 @@
 # experiment-main
 NV experiment control code with qudi and qm-qua
+
+---
+
+# Development Setup
+This repo works alongside two sibling repositories:
+* [qudi-iqo-modules](https://github.com/qeg-ungar/qudi-iqo-modules) ([fork of the Ulm-IQO/qudi-iqo-modules repository](https://github.com/Ulm-IQO/qudi-iqo-modules))
+* [qua-libs](https://github.com/qeg-ungar/qua-libs) ([fork of the qua-platform/qua-libs repository](https://github.com/qua-platform/qua-libs))
+
+All three share a single **Python 3.10** virtual environment. Fork both repositories along with this one before proceding to the setup.
+
+## Clone the Repositories
+Clone all three repos into the **same parent folder**:
+
+```bash
+cd ~/parent_folder
+
+git clone https://github.com/your_user/experiment-main # your forked repo
+git clone https://github.com/your_user/qudi-iqo-modules # your forked repo
+git clone https://github.com/your_user/qua-libs # your forked repo
+```
+
+Your folder structure should look like:
+```
+parent_folder/
+- experiment-main/
+- qudi-iqo-modules/
+- qua-libs/
+```
+
+## Create the Python 3.10 Virtual Environment
+Go into `experiment-main`:
+
+```bash
+cd experiment-main
+.\.venv\Scripts\activate # for Windows CMD
+python --version # should output `Python 3.10.X`
+pip install -r requirements.txt # installs local qudi-iqo-modules as a package, qudi-core, and qua-libs requirements
+```
