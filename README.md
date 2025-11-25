@@ -34,7 +34,17 @@ Go into `experiment-main`:
 
 ```bash
 cd experiment-main
-.\.venv\Scripts\activate # for Windows CMD
-python --version # should output `Python 3.10.X`
+python -m venv .venv   # create venv
+.\.venv\Scripts\activate  # Windows CMD
+python --version  # should show Python 3.10.x
 pip install -r requirements.txt # installs local qudi-iqo-modules as a package, qudi-core, and qua-libs requirements
 ```
+## Set up qudi config path
+Running the command `qudi` will load the default config from `C:\Users\USER\qudi\default.cfg` or the most recently loaded config file.
+
+To load a new config from `experiment-main\qudi_configs\` run:
+```
+bash
+qudi -c '.\qudi_configs\default.cfg'
+```
+
