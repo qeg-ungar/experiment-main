@@ -34,7 +34,8 @@ Go into `experiment-main`:
 
 ```bash
 cd experiment-main
-.\.venv\Scripts\activate # for Windows CMD
-python --version # should output `Python 3.10.X`
+python -m venv .venv   # create venv
+.\.venv\Scripts\activate  # Windows CMD
+python --version  # should show Python 3.10.x
 pip install -r requirements.txt # installs local qudi-iqo-modules as a package, qudi-core, and qua-libs requirements
 ```
