@@ -42,3 +42,15 @@ pip install -r requirements.txt # installs local qudi-iqo-modules as a package, 
 ## Set up qudi config path
 Running the command `qudi` will load an empty Qudi manager if qudi has not been previously installed, or will load the most recent config file.  We have copied the default config (from `qudi-iqo-modules\src\qudi\default.cfg`) into `experiment-main\qudi_configs\`. The default path for loading a new config file is `C:\Users\<USER>\qudi\config`. To load a new config from the local directory `experiment-main\qudi_configs\` Start qudi, and then load (via File -> Load configuration) and select the local config file.
 
+## Run jupyter notebook with qudi 
+activate virtual environment in `experiment-main`, then run:
+```bash
+qudi-install-kernel
+```
+Start up qudi as above and activate Qudi modules used in notebook (e.g. a hardware class like `ni_scanner`). To confirm virtual environment has access to the qudi kernel, run:
+```bash
+jupyter kernelspec list
+```
+Then in VS Code, use command-shift-P to select the setting "Notebook: Select Notebook Kernel", followed by "Select another kernel" and in "Jupyter kernel" you should find and select "qudi".
+
+Finally, with the notebook open select the qudi kernel. 
