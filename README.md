@@ -40,8 +40,8 @@ python --version  # should show Python 3.10.x
 pip install -r requirements.txt # installs local qudi-iqo-modules as a package, qudi-core, and qua-libs requirements
 ```
 ## Set up qudi config path
-Running the command `qudi` will load an empty Qudi manager if qudi has not been previously installed, or will load the most recent config file.  We have copied the default config (from `qudi-iqo-modules\src\qudi\default.cfg`) into `experiment-main\qudi_configs\`. The default path for loading a new config file is `C:\Users\USER\qudi\config`. To load a new config from the local directory `experiment-main\qudi_configs\` run:
+Running the command `qudi` will load an empty Qudi manager if qudi has not been previously installed, or will load the most recent config file.  We have copied the default config (from `qudi-iqo-modules\src\qudi\default.cfg`) into `experiment-main\qudi_configs\`. The default path for loading a new config file is `C:\Users\<USER>\qudi\config`. To load a new config from the local directory `experiment-main\qudi_configs\` run:
 ```bash
-qudi -c '.\qudi_configs\CONFIG.cfg'
+qudi -c '.\qudi_configs\<CONFIG>.cfg'
 ```
 
