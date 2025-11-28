@@ -1,9 +1,10 @@
 ﻿qudi-core
 ipykernel
 jupyterlab
-serial
+pyserial
 
 -r ../qua-libs/requirements.txt
 
 
 -e ../qudi-iqo-modules
+
