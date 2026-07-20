@@ -1,0 +1,127 @@
+
+#spad_processed_files = {'spc3_continuous_20260420-111826-831402__166_pulsed_odmr_162919_avg.npz','spc3_continuous_20260420-121425-770239__166_pulsed_odmr_162919_avg.npz'}
+
+spad_processed_files = {'spc3_continuous_20260518-120115-998225__225_cw_odmr_101745_avg.npz'} #40 mW
+spad_processed_files = {'spc3_continuous_20260518-135437-022759__225_cw_odmr_101745_avg.npz'} #50 mW
+spad_processed_files = {'spc3_continuous_20260518-104550-384679__225_cw_odmr_101745_avg.npz'} #60 mW
+#spad_processed_files = {'spc3_continuous_20260518-113501-037869__225_cw_odmr_101745_avg.npz'} #70 mW
+#spad_processed_files = {'spc3_continuous_20260518-100651-686549__225_cw_odmr_101745_avg.npz'} #80 mW
+#spad_processed_files = {'spc3_continuous_20260518-125924-810193__225_cw_odmr_101745_avg.npz'} #100 mW
+#spad_processed_files = {'spc3_continuous_20260518-131924-839376__225_cw_odmr_101745_avg.npz'} #120 mW
+
+spad_processed_files= {'spc3_continuous_20260523-171606-182825__225_cw_odmr_101745_avg.npz'} #80 mW
+spad_processed_files = {'spc3_continuous_20260523-175318-893090__225_cw_odmr_101745_avg.npz'} #90 mW
+spad_processed_files = {'spc3_continuous_20260523-182801-708430__235_cw_odmr_181435_avg.npz'} #100 mW
+spad_processed_files = {'spc3_continuous_20260523-185934-570694__235_cw_odmr_181435_avg.npz'} #redo 80 mW with array center
+spad_processed_files = {'spc3_continuous_20260523-194453-95384332__235_cw_odmr_181435_avg.npz'} #60 mW
+spad_processed_files = {'spc3_continuous_20260524-162456-157061__235_cw_odmr_181435_avg.npz'} #150 mW
+spad_processed_files = {'spc3_continuous_20260524-170141-526952__235_cw_odmr_181435_avg.npz'} #40 mW
+spad_processed_files = {'spc3_continuous_20260524-180401-379459__235_cw_odmr_181435_avg.npz'} #85 mW
+spad_processed_files = {'spc3_continuous_20260525-173323-237319__235_cw_odmr_181435_avg.npz'} #90 mW
+
+spad_processed_files = {'spc3_continuous_20260526-112717-762144__235_cw_odmr_181435_avg.npz'} #80 mW redo
+spad_processed_files = {'spc3_continuous_20260526-115833-956516__235_cw_odmr_181435_avg.npz'} #90 mW redo 
+#spad_processed_files = {'spc3_continuous_20260526-163137-989089__235_cw_odmr_181435_avg.npz'} #75 mW redo
+#spad_processed_files = {'spc3_continuous_20260526-172610-828011__235_cw_odmr_181435_avg.npz'} #85 mW redo
+
+spad_processed_files = {'spc3_continuous_20260527-135055-165389__251_pulsed_odmr_141200_avg.npz', 'spc3_continuous_20260527-142142-827920__251_pulsed_odmr_141200_avg.npz'} #120 ns readout time
+spad_processed_files = {'spc3_continuous_20260527-144618-039856__251_pulsed_odmr_141200_avg.npz', 'spc3_continuous_20260527-151717-357526__251_pulsed_odmr_141200_avg.npz'} #160 ns readout time
+spad_processed_files = {'spc3_continuous_20260527-165137-617482__251_pulsed_odmr_141200_avg.npz', 'spc3_continuous_20260527-171905-896453__251_pulsed_odmr_141200_avg.npz'} #200 ns readout time
+spad_processed_files = {'spc3_continuous_20260527-185717-202848__251_pulsed_odmr_141200_avg.npz', 'spc3_continuous_20260527-192717-621611__251_pulsed_odmr_141200_avg.npz'} #240 ns readout time
+spad_processed_files = {'spc3_continuous_20260527-175154-641984__251_pulsed_odmr_141200_avg.npz', 'spc3_continuous_20260527-181651-578032__251_pulsed_odmr_141200_avg.npz'} #300 ns readout time    
+
+spad_processed_files = {'spc3_continuous_20260527-165137-617482__251_pulsed_odmr_141200_avg.npz', 
+                        'spc3_continuous_20260527-171905-896453__251_pulsed_odmr_141200_avg.npz'} #200 ns readout time
+
+spad_processed_files =  {'spc3_continuous_20260527-185717-202848__251_pulsed_odmr_141200_avg.npz',
+                        'spc3_continuous_20260528-120235-171885__251_pulsed_odmr_141200_avg.npz'} #240 ns readout time [26,22] bright_rc
+
+spad_processed_files =  {'ODMR_tracking_20260601-105816-355851_iter001__285_pulsed_odmr_tracking_103655_avg.npz',
+                        'ODMR_tracking_20260601-163050-048161_iter001__285_pulsed_odmr_tracking_103655_avg.npz'} #240 ns readout time, [25, 22] bright_rc
+
+spad_processed_files =  {'ODMR_tracking_20260603-124934-821558_iter001__285_pulsed_odmr_tracking_103655_avg.npz',
+                        'ODMR_tracking_20260603-131512-486982_iter002__285_pulsed_odmr_tracking_103655_avg.npz',
+                        'ODMR_tracking_20260603-134051-858054_iter003__285_pulsed_odmr_tracking_103655_avg.npz',
+                        'ODMR_tracking_20260603-140630-717348_iter004__285_pulsed_odmr_tracking_103655_avg.npz',
+                        'ODMR_tracking_20260603-143210-419301_iter005__285_pulsed_odmr_tracking_103655_avg.npz',
+                        'ODMR_tracking_20260603-145749-666568_iter006__285_pulsed_odmr_tracking_103655_avg.npz',
+                        'ODMR_tracking_20260603-154049-701542_iter001__285_pulsed_odmr_tracking_103655_avg.npz',
+                        'ODMR_tracking_20260603-160628-449283_iter002__285_pulsed_odmr_tracking_103655_avg.npz',
+                        'ODMR_tracking_20260603-163207-176055_iter003__285_pulsed_odmr_tracking_103655_avg.npz',
+                        'ODMR_tracking_20260603-165744-316123_iter004__285_pulsed_odmr_tracking_103655_avg.npz',
+                        'ODMR_tracking_20260603-172321-598596_iter005__285_pulsed_odmr_tracking_103655_avg.npz'} #200 ns [25, 21]
+
+spad_processed_files = {'spc3_continuous_20260702-104248-996160__372_cw_odmr_101637_avg.npz'}
+
+spad_processed_files = {'spc3_continuous_20260702-110116-715914__376_pulsed_odmr_111000_avg.npz'} #200 ns
+spad_processed_files = {'spc3_continuous_20260702-112159-210266__376_pulsed_odmr_111000_avg.npz'}#300 ns
+spad_processed_files = {'spc3_continuous_20260702-113844-641690__376_pulsed_odmr_111000_avg.npz'} #400 ns
+spad_processed_files = {'spc3_continuous_20260702-115837-965023__376_pulsed_odmr_111000_avg.npz'} #100 ns
+
+spad_processed_files = {'ODMR_gradient_tracking_20260702-175006-533413_iter001__385_pulsed_odmr_gradient_tracking_181808_avg.npz',
+                        'ODMR_gradient_tracking_20260702-182141-561409_iter002__385_pulsed_odmr_gradient_tracking_181808_avg.npz', 
+                        'ODMR_gradient_tracking_20260702-185316-758945_iter003__385_pulsed_odmr_gradient_tracking_181808_avg.npz', 
+                        'ODMR_gradient_tracking_20260702-192451-715294_iter004__385_pulsed_odmr_gradient_tracking_181808_avg.npz', 
+                        'ODMR_gradient_tracking_20260702-195628-744353_iter005__385_pulsed_odmr_gradient_tracking_181808_avg.npz', 
+                        'ODMR_gradient_tracking_20260702-202803-735476_iter006__385_pulsed_odmr_gradient_tracking_181808_avg.npz', 
+                        'ODMR_gradient_tracking_20260702-205938-880183_iter007__385_pulsed_odmr_gradient_tracking_181808_avg.npz', 
+                        'ODMR_gradient_tracking_20260702-213114-303846_iter008__385_pulsed_odmr_gradient_tracking_181808_avg.npz', 
+                        'ODMR_gradient_tracking_20260702-220249-341719_iter009__385_pulsed_odmr_gradient_tracking_181808_avg.npz', 
+                        'ODMR_gradient_tracking_20260702-223425-378314_iter010__385_pulsed_odmr_gradient_tracking_181808_avg.npz',
+                        'ODMR_gradient_tracking_20260702-230601-615034_iter011__385_pulsed_odmr_gradient_tracking_181808_avg.npz',
+                        'ODMR_gradient_tracking_20260702-233736-743878_iter012__385_pulsed_odmr_gradient_tracking_181808_avg.npz',
+                        'ODMR_gradient_tracking_20260703-000912-434988_iter013__385_pulsed_odmr_gradient_tracking_181808_avg.npz',
+                        'ODMR_gradient_tracking_20260703-004047-472727_iter014__385_pulsed_odmr_gradient_tracking_181808_avg.npz',
+                        'ODMR_gradient_tracking_20260703-011222-820953_iter015__385_pulsed_odmr_gradient_tracking_181808_avg.npz'
+                        }
+                
+spad_processed_files = {'ODMR_gradient_tracking_20260706-174923-766601_iter001__403_pulsed_odmr_gradient_tracking_184910_avg.npz',
+                        'ODMR_gradient_tracking_20260706-182108-792567_iter002__403_pulsed_odmr_gradient_tracking_184910_avg.npz', 
+                        'ODMR_gradient_tracking_20260706-185254-454598_iter003__403_pulsed_odmr_gradient_tracking_184910_avg.npz', 
+                        'ODMR_gradient_tracking_20260706-192440-413776_iter004__403_pulsed_odmr_gradient_tracking_184910_avg.npz', 
+                        'ODMR_gradient_tracking_20260706-195625-727374_iter005__403_pulsed_odmr_gradient_tracking_184910_avg.npz', 
+                        'ODMR_gradient_tracking_20260706-202810-753939_iter006__403_pulsed_odmr_gradient_tracking_184910_avg.npz', 
+                        'ODMR_gradient_tracking_20260706-205956-929650_iter007__403_pulsed_odmr_gradient_tracking_184910_avg.npz', 
+                        'ODMR_gradient_tracking_20260706-213143-133377_iter008__403_pulsed_odmr_gradient_tracking_184910_avg.npz', 
+                        'ODMR_gradient_tracking_20260706-220330-370736_iter009__403_pulsed_odmr_gradient_tracking_184910_avg.npz', 
+                        'ODMR_gradient_tracking_20260706-223515-834327_iter010__403_pulsed_odmr_gradient_tracking_184910_avg.npz'
+                        }
+
+# spad_processed_files = {'ODMR_gradient_tracking_20260707-125653-061663_iter001__412_pulsed_odmr_tracking_131759_avg.npz',
+#                         'ODMR_gradient_tracking_20260707-132132-750680_iter002__412_pulsed_odmr_tracking_131759_avg.npz',
+#                         'ODMR_gradient_tracking_20260707-134610-632802_iter003__412_pulsed_odmr_tracking_131759_avg.npz',
+#                         'ODMR_gradient_tracking_20260707-141048-506693_iter004__412_pulsed_odmr_tracking_131759_avg.npz',
+#                         'ODMR_gradient_tracking_20260707-143526-972567_iter005__412_pulsed_odmr_tracking_131759_avg.npz'
+#                         }
+
+# spad_processed_files = {
+#                         'ODMR_gradient_tracking_20260709-130632-862891_iter002__430_pulsed_odmr_gradient_tracking_130255_avg.npz',
+#                         'ODMR_gradient_tracking_20260709-133928-071860_iter003__430_pulsed_odmr_gradient_tracking_130255_avg.npz',
+#                         'ODMR_gradient_tracking_20260709-141223-160302_iter004__430_pulsed_odmr_gradient_tracking_130255_avg.npz',
+#                         'ODMR_gradient_tracking_20260709-144520-780395_iter005__430_pulsed_odmr_gradient_tracking_130255_avg.npz', 
+#                         'ODMR_gradient_tracking_20260709-183004-959624_iter003__430_pulsed_odmr_gradient_tracking_130255_avg.npz',
+#                         'ODMR_gradient_tracking_20260709-190300-725426_iter004__430_pulsed_odmr_gradient_tracking_130255_avg.npz',
+#                         'ODMR_gradient_tracking_20260709-193556-532481_iter005__430_pulsed_odmr_gradient_tracking_130255_avg.npz'
+#                         }
+#removed 'ODMR_gradient_tracking_20260709-123337-932863_iter001__430_pulsed_odmr_gradient_tracking_130255_avg.npz',
+
+spad_processed_files = {'ODMR_gradient_tracking_20260710-100123-327199_iter001__430_pulsed_odmr_gradient_tracking_130255_avg.npz',
+                        'ODMR_gradient_tracking_20260710-103619-743620_iter002__430_pulsed_odmr_gradient_tracking_130255_avg.npz',
+                        'ODMR_gradient_tracking_20260710-111115-954372_iter003__430_pulsed_odmr_gradient_tracking_130255_avg.npz',
+                        'ODMR_gradient_tracking_20260710-114612-026224_iter004__430_pulsed_odmr_gradient_tracking_130255_avg.npz', 
+                        'ODMR_gradient_tracking_20260710-122108-446594_iter005__430_pulsed_odmr_gradient_tracking_130255_avg.npz'
+                        }
+
+spad_processed_files = {'ODMR_gradient_tracking_20260710-141619-180076_iter001__445_pulsed_odmr_gradient_tracking_144536_avg.npz', 
+                        'ODMR_gradient_tracking_20260710-144915-351318_iter002__445_pulsed_odmr_gradient_tracking_144536_avg.npz',
+                        'ODMR_gradient_tracking_20260710-155659-635230_iter003__445_pulsed_odmr_gradient_tracking_144536_avg.npz',
+                        'ODMR_gradient_tracking_20260710-162955-857066_iter004__445_pulsed_odmr_gradient_tracking_144536_avg.npz',
+                        'ODMR_gradient_tracking_20260710-170252-176748_iter005__445_pulsed_odmr_gradient_tracking_144536_avg.npz',
+                        'ODMR_gradient_tracking_20260710-173548-324368_iter006__445_pulsed_odmr_gradient_tracking_144536_avg.npz',
+                        'ODMR_gradient_tracking_20260710-180844-499553_iter007__445_pulsed_odmr_gradient_tracking_144536_avg.npz',
+                        'ODMR_gradient_tracking_20260710-184140-828624_iter008__445_pulsed_odmr_gradient_tracking_144536_avg.npz',
+                        'ODMR_gradient_tracking_20260710-191436-828564_iter009__445_pulsed_odmr_gradient_tracking_144536_avg.npz',
+                        'ODMR_gradient_tracking_20260710-194733-143099_iter010__445_pulsed_odmr_gradient_tracking_144536_avg'
+                         }
+
+#removed  'ODMR_gradient_tracking_20260710-153143-530256_iter002__445_pulsed_odmr_gradient_tracking_144536_avg.npz',

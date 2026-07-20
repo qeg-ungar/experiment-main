@@ -1,0 +1,152 @@
+spad_processed_files = {'time_rabi_tracking_20260707-152044-887769_iter001__417_time_rabi_tracking_153945_avg.npz',
+                        'time_rabi_tracking_20260707-154316-955485_iter002__417_time_rabi_tracking_153945_avg.npz',
+                        'time_rabi_tracking_20260707-160548-909641_iter003__417_time_rabi_tracking_153945_avg.npz',
+                        'time_rabi_tracking_20260707-162820-955821_iter004__417_time_rabi_tracking_153945_avg.npz',
+                        'time_rabi_tracking_20260707-165053-078503_iter005__417_time_rabi_tracking_153945_avg.npz'}
+
+# spad_processed_files = {'time_rabi_tracking_20260707-200042-263521_iter001__417_time_rabi_tracking_153945_avg.npz',
+#                         'time_rabi_tracking_20260707-202404-945262_iter002__417_time_rabi_tracking_153945_avg.npz',
+#                         'time_rabi_tracking_20260707-204727-385394_iter003__417_time_rabi_tracking_153945_avg.npz',
+#                         'time_rabi_tracking_20260707-211050-033488_iter004__417_time_rabi_tracking_153945_avg.npz',
+#                         'time_rabi_tracking_20260707-213412-610138_iter005__417_time_rabi_tracking_153945_avg.npz'}
+
+# spad_processed_files = {
+#                         'time_rabi_tracking_20260707-202404-945262_iter002__417_time_rabi_tracking_153945_avg.npz',
+#                         'time_rabi_tracking_20260707-204727-385394_iter003__417_time_rabi_tracking_153945_avg.npz',
+#                         'time_rabi_tracking_20260707-211050-033488_iter004__417_time_rabi_tracking_153945_avg.npz',
+#                         'time_rabi_tracking_20260707-213412-610138_iter005__417_time_rabi_tracking_153945_avg.npz'}
+
+spad_processed_files = {
+                        'ODMR_gradient_tracking_20260715-133445-246391_iter001__473_time_rabi_gradient_tracking_113440_avg.npz',
+                        'ODMR_gradient_tracking_20260715-140307-901020_iter002__473_time_rabi_gradient_tracking_113440_avg.npz',
+                        'ODMR_gradient_tracking_20260715-143130-358030_iter003__473_time_rabi_gradient_tracking_113440_avg.npz',
+                        'ODMR_gradient_tracking_20260715-145953-530876_iter004__473_time_rabi_gradient_tracking_113440_avg.npz',
+                        'ODMR_gradient_tracking_20260715-152816-482374_iter005__473_time_rabi_gradient_tracking_113440_avg.npz',
+                        'ODMR_gradient_tracking_20260715-155639-830541_iter006__473_time_rabi_gradient_tracking_113440_avg.npz'}
+
+spad_processed_files = {
+                        'time_rabi_tracking_20260715-184625-591686_iter001__486_time_rabi_gradient_tracking_191405_avg.npz',
+                        'time_rabi_tracking_20260715-191807-926601_iter002__486_time_rabi_gradient_tracking_191405_avg.npz',
+                        'time_rabi_tracking_20260715-194949-591523_iter003__486_time_rabi_gradient_tracking_191405_avg.npz',
+                        'time_rabi_tracking_20260715-202131-119836_iter004__486_time_rabi_gradient_tracking_191405_avg.npz',
+                        'time_rabi_tracking_20260715-205314-126500_iter005__486_time_rabi_gradient_tracking_191405_avg.npz',
+                        'time_rabi_tracking_20260715-212455-585853_iter006__486_time_rabi_gradient_tracking_191405_avg.npz',
+                        'time_rabi_tracking_20260715-215637-527180_iter007__486_time_rabi_gradient_tracking_191405_avg.npz'
+                        }
+
+spad_processed_files = {
+                        'time_rabi_tracking_20260715-223619-254812_iter001__493_time_rabi_gradient_tracking_230359_avg.npz',
+                        'time_rabi_tracking_20260715-230800-770669_iter002__493_time_rabi_gradient_tracking_230359_avg.npz',
+                        'time_rabi_tracking_20260715-233942-277822_iter003__493_time_rabi_gradient_tracking_230359_avg.npz',
+                        'time_rabi_tracking_20260716-001123-914207_iter004__493_time_rabi_gradient_tracking_230359_avg.npz',
+                        'time_rabi_tracking_20260716-004305-461278_iter005__493_time_rabi_gradient_tracking_230359_avg.npz',
+                        'time_rabi_tracking_20260716-011447-141334_iter006__493_time_rabi_gradient_tracking_230359_avg.npz',
+                        'time_rabi_tracking_20260716-014628-868784_iter007__493_time_rabi_gradient_tracking_230359_avg.npz',
+                        'time_rabi_tracking_20260716-021810-561034_iter008__493_time_rabi_gradient_tracking_230359_avg.npz',
+                        'time_rabi_tracking_20260716-024952-434213_iter009__493_time_rabi_gradient_tracking_230359_avg.npz',
+                        'time_rabi_tracking_20260716-032134-006057_iter010__493_time_rabi_gradient_tracking_230359_avg.npz'
+                        }
+
+spad_processed_files = {
+                        'time_rabi_tracking_20260716-082443-894774_iter001__503_time_rabi_gradient_tracking_085223_avg.npz',
+                        'time_rabi_tracking_20260716-085625-764846_iter002__503_time_rabi_gradient_tracking_085223_avg.npz',
+                        'time_rabi_tracking_20260716-092809-551421_iter003__503_time_rabi_gradient_tracking_085223_avg.npz',
+                        'time_rabi_tracking_20260716-095951-480153_iter004__503_time_rabi_gradient_tracking_085223_avg.npz',
+                        'time_rabi_tracking_20260716-103132-974934_iter005__503_time_rabi_gradient_tracking_085223_avg.npz',
+                        'time_rabi_tracking_20260716-110314-609963_iter006__503_time_rabi_gradient_tracking_085223_avg.npz',
+                        'time_rabi_tracking_20260716-113456-174293_iter007__503_time_rabi_gradient_tracking_085223_avg.npz',
+                        'time_rabi_tracking_20260716-120637-768574_iter008__503_time_rabi_gradient_tracking_085223_avg.npz',
+                        'time_rabi_tracking_20260716-123819-484512_iter009__503_time_rabi_gradient_tracking_085223_avg.npz',
+                        'time_rabi_tracking_20260716-131001-519783_iter010__503_time_rabi_gradient_tracking_085223_avg.npz'
+                        }
+
+spad_processed_files = {
+                        'time_rabi_tracking_20260716-140832-448475_iter001__513_time_rabi_gradient_tracking_143612_avg.npz',
+                        'time_rabi_tracking_20260716-144011-797118_iter002__513_time_rabi_gradient_tracking_143612_avg.npz',
+                        'time_rabi_tracking_20260716-151151-105661_iter003__513_time_rabi_gradient_tracking_143612_avg.npz',
+                        'time_rabi_tracking_20260716-154330-627479_iter004__513_time_rabi_gradient_tracking_143612_avg.npz',
+                        'time_rabi_tracking_20260716-161512-530157_iter005__513_time_rabi_gradient_tracking_143612_avg.npz',
+                        'time_rabi_tracking_20260716-164654-249914_iter006__513_time_rabi_gradient_tracking_143612_avg.npz',
+                        'time_rabi_tracking_20260716-171835-702070_iter007__513_time_rabi_gradient_tracking_143612_avg.npz',
+                        'time_rabi_tracking_20260716-175017-330980_iter008__513_time_rabi_gradient_tracking_143612_avg.npz',
+                        'time_rabi_tracking_20260716-182158-825067_iter009__513_time_rabi_gradient_tracking_143612_avg.npz',
+                        'time_rabi_tracking_20260716-185340-399309_iter010__513_time_rabi_gradient_tracking_143612_avg.npz'
+                        }
+
+# spad_processed_files = {
+#                         'time_rabi_tracking_20260715-223619-254812_iter001__493_time_rabi_gradient_tracking_230359_avg.npz',
+#                         'time_rabi_tracking_20260715-230800-770669_iter002__493_time_rabi_gradient_tracking_230359_avg.npz',
+#                         'time_rabi_tracking_20260715-233942-277822_iter003__493_time_rabi_gradient_tracking_230359_avg.npz',
+#                         'time_rabi_tracking_20260716-001123-914207_iter004__493_time_rabi_gradient_tracking_230359_avg.npz',
+#                         'time_rabi_tracking_20260716-004305-461278_iter005__493_time_rabi_gradient_tracking_230359_avg.npz',
+#                         'time_rabi_tracking_20260716-011447-141334_iter006__493_time_rabi_gradient_tracking_230359_avg.npz',
+#                         'time_rabi_tracking_20260716-014628-868784_iter007__493_time_rabi_gradient_tracking_230359_avg.npz',
+#                         'time_rabi_tracking_20260716-021810-561034_iter008__493_time_rabi_gradient_tracking_230359_avg.npz',
+#                         'time_rabi_tracking_20260716-024952-434213_iter009__493_time_rabi_gradient_tracking_230359_avg.npz',
+#                         'time_rabi_tracking_20260716-032134-006057_iter010__493_time_rabi_gradient_tracking_230359_avg.npz',
+#                         'time_rabi_tracking_20260716-140832-448475_iter001__513_time_rabi_gradient_tracking_143612_avg.npz',
+#                         'time_rabi_tracking_20260716-144011-797118_iter002__513_time_rabi_gradient_tracking_143612_avg.npz',
+#                         'time_rabi_tracking_20260716-151151-105661_iter003__513_time_rabi_gradient_tracking_143612_avg.npz',
+#                         'time_rabi_tracking_20260716-154330-627479_iter004__513_time_rabi_gradient_tracking_143612_avg.npz',
+#                         'time_rabi_tracking_20260716-161512-530157_iter005__513_time_rabi_gradient_tracking_143612_avg.npz',
+#                         'time_rabi_tracking_20260716-164654-249914_iter006__513_time_rabi_gradient_tracking_143612_avg.npz',
+#                         'time_rabi_tracking_20260716-171835-702070_iter007__513_time_rabi_gradient_tracking_143612_avg.npz',
+#                         'time_rabi_tracking_20260716-175017-330980_iter008__513_time_rabi_gradient_tracking_143612_avg.npz',
+#                         'time_rabi_tracking_20260716-182158-825067_iter009__513_time_rabi_gradient_tracking_143612_avg.npz',
+#                         'time_rabi_tracking_20260716-185340-399309_iter010__513_time_rabi_gradient_tracking_143612_avg.npz'
+#                         }
+
+# spad_processed_files = {
+#                         'time_rabi_tracking_20260716-213016-630529_iter001__523_time_rabi_gradient_tracking_215756_avg.npz',
+#                         'time_rabi_tracking_20260716-220155-961430_iter002__523_time_rabi_gradient_tracking_215756_avg.npz',
+#                         'time_rabi_tracking_20260716-223337-582733_iter003__523_time_rabi_gradient_tracking_215756_avg.npz',
+#                         'time_rabi_tracking_20260716-230519-053566_iter004__523_time_rabi_gradient_tracking_215756_avg.npz',
+#                         'time_rabi_tracking_20260716-233700-420324_iter005__523_time_rabi_gradient_tracking_215756_avg.npz',
+#                         'time_rabi_tracking_20260717-000843-607888_iter006__523_time_rabi_gradient_tracking_215756_avg.npz',
+#                         'time_rabi_tracking_20260717-004025-077746_iter007__523_time_rabi_gradient_tracking_215756_avg.npz',
+#                         'time_rabi_tracking_20260717-011207-336877_iter008__523_time_rabi_gradient_tracking_215756_avg.npz',
+#                         'time_rabi_tracking_20260717-014348-944238_iter009__523_time_rabi_gradient_tracking_215756_avg.npz',
+#                         'time_rabi_tracking_20260717-021530-671116_iter010__523_time_rabi_gradient_tracking_215756_avg.npz',
+#                         'time_rabi_tracking_20260717-024712-238259_iter011__523_time_rabi_gradient_tracking_215756_avg.npz',
+#                         'time_rabi_tracking_20260717-031853-861293_iter012__523_time_rabi_gradient_tracking_215756_avg.npz',
+#                         'time_rabi_tracking_20260717-035037-504533_iter013__523_time_rabi_gradient_tracking_215756_avg.npz',
+#                         'time_rabi_tracking_20260717-042219-083579_iter014__523_time_rabi_gradient_tracking_215756_avg.npz',
+#                         'time_rabi_tracking_20260717-045400-780102_iter015__523_time_rabi_gradient_tracking_215756_avg.npz',
+#                         'time_rabi_tracking_20260717-052542-615258_iter016__523_time_rabi_gradient_tracking_215756_avg.npz',
+#                         'time_rabi_tracking_20260717-055724-988490_iter017__523_time_rabi_gradient_tracking_215756_avg.npz',
+#                         'time_rabi_tracking_20260717-062906-648732_iter018__523_time_rabi_gradient_tracking_215756_avg.npz',
+#                         'time_rabi_tracking_20260717-070048-389017_iter019__523_time_rabi_gradient_tracking_215756_avg.npz',
+#                         'time_rabi_tracking_20260717-073230-207882_iter020__523_time_rabi_gradient_tracking_215756_avg.npz'
+#                         }
+
+
+
+# spad_processed_files = {
+#                         'time_rabi_tracking_20260715-184625-591686_iter001__486_time_rabi_gradient_tracking_191405_avg.npz',
+#                         'time_rabi_tracking_20260715-191807-926601_iter002__486_time_rabi_gradient_tracking_191405_avg.npz',
+#                         'time_rabi_tracking_20260715-194949-591523_iter003__486_time_rabi_gradient_tracking_191405_avg.npz',
+#                         'time_rabi_tracking_20260715-202131-119836_iter004__486_time_rabi_gradient_tracking_191405_avg.npz',
+#                         'time_rabi_tracking_20260715-205314-126500_iter005__486_time_rabi_gradient_tracking_191405_avg.npz',
+#                         'time_rabi_tracking_20260715-212455-585853_iter006__486_time_rabi_gradient_tracking_191405_avg.npz',
+#                         'time_rabi_tracking_20260715-215637-527180_iter007__486_time_rabi_gradient_tracking_191405_avg.npz',
+#                         'time_rabi_tracking_20260716-213016-630529_iter001__523_time_rabi_gradient_tracking_215756_avg.npz',
+#                         'time_rabi_tracking_20260716-220155-961430_iter002__523_time_rabi_gradient_tracking_215756_avg.npz',
+#                         'time_rabi_tracking_20260716-223337-582733_iter003__523_time_rabi_gradient_tracking_215756_avg.npz',
+#                         'time_rabi_tracking_20260716-230519-053566_iter004__523_time_rabi_gradient_tracking_215756_avg.npz',
+#                         'time_rabi_tracking_20260716-233700-420324_iter005__523_time_rabi_gradient_tracking_215756_avg.npz',
+#                         'time_rabi_tracking_20260717-000843-607888_iter006__523_time_rabi_gradient_tracking_215756_avg.npz',
+#                         'time_rabi_tracking_20260717-004025-077746_iter007__523_time_rabi_gradient_tracking_215756_avg.npz',
+#                         'time_rabi_tracking_20260717-011207-336877_iter008__523_time_rabi_gradient_tracking_215756_avg.npz',
+#                         'time_rabi_tracking_20260717-014348-944238_iter009__523_time_rabi_gradient_tracking_215756_avg.npz',
+#                         'time_rabi_tracking_20260717-021530-671116_iter010__523_time_rabi_gradient_tracking_215756_avg.npz',
+#                         'time_rabi_tracking_20260717-024712-238259_iter011__523_time_rabi_gradient_tracking_215756_avg.npz',
+#                         'time_rabi_tracking_20260717-031853-861293_iter012__523_time_rabi_gradient_tracking_215756_avg.npz',
+#                         'time_rabi_tracking_20260717-035037-504533_iter013__523_time_rabi_gradient_tracking_215756_avg.npz',
+#                         'time_rabi_tracking_20260717-042219-083579_iter014__523_time_rabi_gradient_tracking_215756_avg.npz',
+#                         'time_rabi_tracking_20260717-045400-780102_iter015__523_time_rabi_gradient_tracking_215756_avg.npz',
+#                         'time_rabi_tracking_20260717-052542-615258_iter016__523_time_rabi_gradient_tracking_215756_avg.npz',
+#                         'time_rabi_tracking_20260717-055724-988490_iter017__523_time_rabi_gradient_tracking_215756_avg.npz',
+#                         'time_rabi_tracking_20260717-062906-648732_iter018__523_time_rabi_gradient_tracking_215756_avg.npz',
+#                         'time_rabi_tracking_20260717-070048-389017_iter019__523_time_rabi_gradient_tracking_215756_avg.npz',
+#                         'time_rabi_tracking_20260717-073230-207882_iter020__523_time_rabi_gradient_tracking_215756_avg.npz'
+#                         }
